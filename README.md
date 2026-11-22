@@ -109,3 +109,4 @@ unlock, live edits and encrypted file storage end to end.
 
 Never change the constants in `shared/vaultcrypto.js` after creating vaults:
 doing so makes every existing vault unreachable.
+# secret-notes
